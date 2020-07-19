@@ -1,0 +1,20 @@
+{
+    "name": "webcoder33/cryptocurrency-info",
+    "description": "get cryptocurrency info",
+    "type": "library",
+    "license": "open",
+    "authors": [
+        {
+            "name": "Marchenkov Aleksandr",
+            "email": "coder33@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CryptocurrencyInfo\\": "src/CryptocurrencyInfo/"
+        }
+}
