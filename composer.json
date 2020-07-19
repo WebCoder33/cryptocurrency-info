@@ -17,4 +17,5 @@
         "psr-4": {
             "CryptocurrencyInfo\\": "src/CryptocurrencyInfo/"
         }
+    }
 }
